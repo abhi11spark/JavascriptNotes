@@ -1,0 +1,22 @@
+Why JS is called scripting language
+Why JS is called interpretted language
+What are the different types of translators and what are the difference b/w them
+What is Node JS
+What is VS code
+What is the difference b/w var, let const
+What is the difference b/w == and ===. Example related to your project
+What are the different type of datatypes available
+What is the predefined method available to find the datatype 
+Explain client server validation with an example(Provide the requirement for the element which is being validated)
+Why JS is called full stack data file
+Give the different examples for libraries developed using JS
+Give the different examples for frameworks developed using JS
+What are the different types of tokens. Write the conditions for writing the keyword and identifier
+What do you mean by JS engine. Name of the JS engine for chrome browser
+Why variable is loosely typed in JS.What is the advantage
+How van we change the datatype explicitly
+Write pgrms along with the output showing the difference b/w pre and post increment
+What are the different types of JS execution. Explain briefly
+Write the progms and demonstrate the execution of all looping statements.
+List down all the looping statements. Program and with one example of your project
+Explain Program execution in detail
